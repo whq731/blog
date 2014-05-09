@@ -1,4 +1,4 @@
-baseurl: /blog
+baseurl: "blog"
 markdown: redcarpet
 safe: false
 pygments: true
