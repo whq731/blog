@@ -1,4 +1,6 @@
 url: "http://whq731.github.io/blog"
+permalink: /blog/:title
+baseurl: /blog
 markdown: redcarpet
 safe: true
 pygments: true
