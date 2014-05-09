@@ -1,6 +1,6 @@
-url: /blog
+url: "http://whq731.github.io/blog"
 markdown: redcarpet
-safe: false
+safe: true
 pygments: true
 excerpt_separator: "\n\n\n"
 paginate: 5
