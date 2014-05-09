@@ -1,7 +1,5 @@
 url: "http://whq731.github.io/blog"
 baseurl: /blog
-permalink: /blog/:year/:month/:day/:title
-markdown: redcarpet
 safe: true
 pygments: true
 excerpt_separator: "\n\n\n"
