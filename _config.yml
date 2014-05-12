@@ -1,5 +1,5 @@
 url: "http://whq731.github.io/blog"
-baseurl: /blog
+baseurl: http://whq731.github.io/blog
 safe: true
 pygments: true
 markdown: rdiscount
